@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureGateway", "AzureGateway\AzureGateway.csproj", "{4530CD53-B7E8-4E8C-8348-DC35A52698D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{0B1DF4B5-F2E7-49D7-91FA-B5265F68998D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4530CD53-B7E8-4E8C-8348-DC35A52698D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4530CD53-B7E8-4E8C-8348-DC35A52698D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4530CD53-B7E8-4E8C-8348-DC35A52698D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4530CD53-B7E8-4E8C-8348-DC35A52698D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1DF4B5-F2E7-49D7-91FA-B5265F68998D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1DF4B5-F2E7-49D7-91FA-B5265F68998D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1DF4B5-F2E7-49D7-91FA-B5265F68998D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1DF4B5-F2E7-49D7-91FA-B5265F68998D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {854A7E89-5A80-4124-9052-8B1CDC5147E8}
+	EndGlobalSection
+EndGlobal

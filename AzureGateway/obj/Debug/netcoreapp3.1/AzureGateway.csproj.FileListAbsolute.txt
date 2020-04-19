@@ -1,0 +1,8 @@
+D:\Projects\MyProjects\TextAnalysis\AzureGateway\bin\Debug\netcoreapp3.1\AzureGateway.deps.json
+D:\Projects\MyProjects\TextAnalysis\AzureGateway\bin\Debug\netcoreapp3.1\AzureGateway.dll
+D:\Projects\MyProjects\TextAnalysis\AzureGateway\obj\Debug\netcoreapp3.1\AzureGateway.AssemblyInfoInputs.cache
+D:\Projects\MyProjects\TextAnalysis\AzureGateway\obj\Debug\netcoreapp3.1\AzureGateway.AssemblyInfo.cs
+D:\Projects\MyProjects\TextAnalysis\AzureGateway\bin\Debug\netcoreapp3.1\AzureGateway.pdb
+D:\Projects\MyProjects\TextAnalysis\AzureGateway\obj\Debug\netcoreapp3.1\AzureGateway.csprojAssemblyReference.cache
+D:\Projects\MyProjects\TextAnalysis\AzureGateway\obj\Debug\netcoreapp3.1\AzureGateway.dll
+D:\Projects\MyProjects\TextAnalysis\AzureGateway\obj\Debug\netcoreapp3.1\AzureGateway.pdb
